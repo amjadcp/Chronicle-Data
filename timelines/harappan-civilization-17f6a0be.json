@@ -4,7 +4,7 @@
   "description": "",
   "contributor": "amjadcp03@gmail.com",
   "createdAt": "2026-06-06T02:03:47.047Z",
-  "updatedAt": "2026-06-06T11:03:51.131Z",
+  "updatedAt": "2026-06-06T13:04:31.711Z",
   "events": [
     {
       "id": "ba74f198-ae4f-4805-b22e-3ffd3a3f1119",
@@ -15,10 +15,11 @@
       "end": {
         "year": -8000
       },
-      "groupId": null,
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "e677d955-502d-42aa-81b0-54e08c448ae4",
@@ -29,10 +30,11 @@
       "end": {
         "year": -2000
       },
-      "groupId": null,
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "7cc79925-21e9-497b-9f16-36c44773dfea",
@@ -43,10 +45,11 @@
       "end": {
         "year": -600
       },
-      "groupId": null,
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "3e2f8da8-3d2c-4c4e-9de5-c53c225e82ce",
@@ -57,10 +60,11 @@
       "end": {
         "year": -600
       },
-      "groupId": null,
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "70598a08-0bca-4997-a219-e0b3fd98bba9",
@@ -71,10 +75,11 @@
       "end": {
         "year": -1200
       },
-      "groupId": null,
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "bac48cb4-4b5b-484e-87ac-dac860d41f08",
@@ -85,10 +90,11 @@
       "end": {
         "year": -200
       },
-      "groupId": null,
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
       "notesMarkdown": "Later Vedic period in North India and Megalithic period in South India.",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "ae2068c7-c678-42e4-bafd-c0e07aadb025",
@@ -102,7 +108,8 @@
       "groupId": null,
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "22f78c22-5b37-4c56-aab2-4e8360cac49a",
@@ -113,10 +120,18 @@
       "end": {
         "year": -2600
       },
-      "groupId": null,
+      "groupId": "25c6d081-8847-4b97-a724-602d2601ba86",
       "notesMarkdown": "",
-      "resources": [],
-      "iconResourceId": null
+      "resources": [
+        {
+          "id": "ecaaa183-37e8-4c6d-90c1-859b98a49c19",
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=QvQiOGBzAo0",
+          "label": "Harappan - Indus Valley Civilization Malayalam Explanation"
+        }
+      ],
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "a66e008f-5130-4ed5-bf15-d0947740f295",
@@ -127,10 +142,11 @@
       "end": {
         "year": -1900
       },
-      "groupId": null,
+      "groupId": "25c6d081-8847-4b97-a724-602d2601ba86",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "d6f6694e-d2b2-4bd8-ac4c-431058ff0eac",
@@ -141,10 +157,11 @@
       "end": {
         "year": -1300
       },
-      "groupId": null,
+      "groupId": "25c6d081-8847-4b97-a724-602d2601ba86",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "46e46a2b-e72e-4292-a0e3-41e545bbe84a",
@@ -155,10 +172,11 @@
       "end": {
         "year": -1900
       },
-      "groupId": null,
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "915a7781-6586-428f-895b-2bdf159299f6",
@@ -169,10 +187,11 @@
       "end": {
         "year": -2000
       },
-      "groupId": null,
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "4908431b-e3c8-4e44-8880-06d602558cf1",
@@ -183,10 +202,11 @@
       "end": {
         "year": -1400
       },
-      "groupId": null,
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "5482afac-0794-4880-9df1-3b1914b795e1",
@@ -197,10 +217,11 @@
       "end": {
         "year": -700
       },
-      "groupId": null,
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "8c49688a-fc5b-40ec-aaaa-737afcd607e6",
@@ -211,10 +232,11 @@
       "end": {
         "year": 1200
       },
-      "groupId": null,
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     },
     {
       "id": "164d32e7-bb74-422d-9f10-155daec8cdfc",
@@ -225,12 +247,29 @@
       "end": {
         "year": -2000
       },
-      "groupId": null,
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
       "notesMarkdown": "",
       "resources": [],
-      "iconResourceId": null
+      "iconResourceId": null,
+      "color": null
     }
   ],
-  "groups": [],
+  "groups": [
+    {
+      "id": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
+      "name": "Non Harappan Cultures",
+      "color": "#2563EB"
+    },
+    {
+      "id": "25c6d081-8847-4b97-a724-602d2601ba86",
+      "name": "Harappan Phase",
+      "color": "#0EA5E9"
+    },
+    {
+      "id": "4acba818-f82c-4f79-b062-c31f2dd80696",
+      "name": "Time Periods",
+      "color": "#10B981"
+    }
+  ],
   "schemaVersion": 1
 }
