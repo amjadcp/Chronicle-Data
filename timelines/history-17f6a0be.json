@@ -1,0 +1,96 @@
+{
+  "id": "17f6a0be-e613-4c01-8a80-ca551ccb4be7",
+  "name": "History",
+  "description": "",
+  "contributor": "amjadcp03@gmail.com",
+  "createdAt": "2026-06-06T02:03:47.047Z",
+  "updatedAt": "2026-06-06T08:33:50.694Z",
+  "events": [
+    {
+      "id": "ba74f198-ae4f-4805-b22e-3ffd3a3f1119",
+      "name": "Paleolothic",
+      "start": {
+        "year": -2000000
+      },
+      "end": {
+        "year": -8000
+      },
+      "groupId": null,
+      "notesMarkdown": "",
+      "resources": [],
+      "iconResourceId": null
+    },
+    {
+      "id": "e677d955-502d-42aa-81b0-54e08c448ae4",
+      "name": "Mesolithic",
+      "start": {
+        "year": -8000
+      },
+      "end": {
+        "year": -2000
+      },
+      "groupId": null,
+      "notesMarkdown": "",
+      "resources": [],
+      "iconResourceId": null
+    },
+    {
+      "id": "7cc79925-21e9-497b-9f16-36c44773dfea",
+      "name": "Neolithic",
+      "start": {
+        "year": -7000
+      },
+      "end": {
+        "year": -600
+      },
+      "groupId": null,
+      "notesMarkdown": "",
+      "resources": [],
+      "iconResourceId": null
+    },
+    {
+      "id": "3e2f8da8-3d2c-4c4e-9de5-c53c225e82ce",
+      "name": "Chalcolithic",
+      "start": {
+        "year": -3500
+      },
+      "end": {
+        "year": -600
+      },
+      "groupId": null,
+      "notesMarkdown": "",
+      "resources": [],
+      "iconResourceId": null
+    },
+    {
+      "id": "70598a08-0bca-4997-a219-e0b3fd98bba9",
+      "name": "Bronze Age",
+      "start": {
+        "year": -2600
+      },
+      "end": {
+        "year": -1200
+      },
+      "groupId": null,
+      "notesMarkdown": "",
+      "resources": [],
+      "iconResourceId": null
+    },
+    {
+      "id": "bac48cb4-4b5b-484e-87ac-dac860d41f08",
+      "name": "Iron Age",
+      "start": {
+        "year": -1200
+      },
+      "end": {
+        "year": -200
+      },
+      "groupId": null,
+      "notesMarkdown": "",
+      "resources": [],
+      "iconResourceId": null
+    }
+  ],
+  "groups": [],
+  "schemaVersion": 1
+}
