@@ -1,0 +1,575 @@
+{
+  "id": "e3b7262f-96f8-4554-bad3-4d209896b080",
+  "name": "Geography of Indian - Improved Historical Chronology",
+  "description": "Comprehensive timeline of Harappan, Early Indian Cultures, and subsequent empires showing sequential and parallel historical developments.",
+  "contributor": "amjadcp03@gmail.com",
+  "createdAt": "2026-06-06T02:03:47.047Z",
+  "updatedAt": "2026-06-06T13:13:27.846Z",
+  "events": [
+    {
+      "id": "ba74f198-ae4f-4805-b22e-3ffd3a3f1119",
+      "name": "Paleolithic",
+      "start": {
+        "year": -2000000
+      },
+      "end": {
+        "year": -8000
+      },
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
+      "notesMarkdown": "Era of earliest human use of large stone tools.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "e677d955-502d-42aa-81b0-54e08c448ae4",
+      "name": "Mesolithic",
+      "start": {
+        "year": -8000
+      },
+      "end": {
+        "year": -2000
+      },
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
+      "notesMarkdown": "Transition period featuring the use of smaller stone tools.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "7cc79925-21e9-497b-9f16-36c44773dfea",
+      "name": "Neolithic",
+      "start": {
+        "year": -7000
+      },
+      "end": {
+        "year": -600
+      },
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
+      "notesMarkdown": "Polished stone tools era. In South India, this ran parallel to the Harappan civilization in the North, and supplied gold to them.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "ae2068c7-c678-42e4-bafd-c0e07aadb025",
+      "name": "Neolithic culture of Mehrgarh",
+      "start": {
+        "year": -7000
+      },
+      "end": {
+        "year": -3200
+      },
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
+      "notesMarkdown": "Earliest agricultural settlements in the subcontinent where Neolithic humans lived before eventually migrating toward the Indus River to form the early Harappan culture.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "3e2f8da8-3d2c-4c4e-9de5-c53c225e82ce",
+      "name": "Chalcolithic",
+      "start": {
+        "year": -3500
+      },
+      "end": {
+        "year": -600
+      },
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
+      "notesMarkdown": "Transition period using both stone and copper tools.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "22f78c22-5b37-4c56-aab2-4e8360cac49a",
+      "name": "Early Harappan Phase",
+      "start": {
+        "year": -3200
+      },
+      "end": {
+        "year": -2600
+      },
+      "groupId": "25c6d081-8847-4b97-a724-602d2601ba86",
+      "notesMarkdown": "A rural, Chalcolithic phase characterized by regional diversity as populations settled along the Indus.",
+      "resources": [
+        {
+          "id": "ecaaa183-37e8-4c6d-90c1-859b98a49c19",
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=QvQiOGBzAo0",
+          "label": "Harappan - Indus Valley Civilization Malayalam Explanation"
+        }
+      ],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "70598a08-0bca-4997-a219-e0b3fd98bba9",
+      "name": "Bronze Age",
+      "start": {
+        "year": -2600
+      },
+      "end": {
+        "year": -1200
+      },
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
+      "notesMarkdown": "Marked by the mixture of copper and tin for sharper tools. This aligns precisely with the Mature Harappan unification.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "a66e008f-5130-4ed5-bf15-d0947740f295",
+      "name": "Mature Harappan Phase",
+      "start": {
+        "year": -2600
+      },
+      "end": {
+        "year": -1900
+      },
+      "groupId": "25c6d081-8847-4b97-a724-602d2601ba86",
+      "notesMarkdown": "An urban, Bronze Age phase marked by unified town planning, writing, and active trade with Mesopotamia. Parallel Incident: This culture was younger than Mesopotamia, but co-existed with it.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-ganeshwar-jodhpura",
+      "name": "Ganeshwar-Jodhpura Culture",
+      "start": {
+        "year": -2600
+      },
+      "end": {
+        "year": -1900
+      },
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
+      "notesMarkdown": "Parallel Incident: A rural Chalcolithic culture using copper tools that existed completely contemporaneously with the urban Mature Harappan civilization, located in Rajasthan.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "d6f6694e-d2b2-4bd8-ac4c-431058ff0eac",
+      "name": "Late Harappan Phase",
+      "start": {
+        "year": -1900
+      },
+      "end": {
+        "year": -1300
+      },
+      "groupId": "25c6d081-8847-4b97-a724-602d2601ba86",
+      "notesMarkdown": "Decline of urban uniformity. Harappans abandoned writing and Bronze, migrating to new areas like Swat, Jhukar, Rangpur, and Siswal.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "46e46a2b-e72e-4292-a0e3-41e545bbe84a",
+      "name": "Banas Culture (Rajasthan)",
+      "start": {
+        "year": -2600
+      },
+      "end": {
+        "year": -1900
+      },
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
+      "notesMarkdown": "A post-Harappan rural Chalcolithic culture.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "915a7781-6586-428f-895b-2bdf159299f6",
+      "name": "Kayatha Culture (Madhya Pradesh)",
+      "start": {
+        "year": -2400
+      },
+      "end": {
+        "year": -2000
+      },
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
+      "notesMarkdown": "A rural Chalcolithic culture.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "164d32e7-bb74-422d-9f10-155daec8cdfc",
+      "name": "Savalda Culture (Tapi Valley)",
+      "start": {
+        "year": -2300
+      },
+      "end": {
+        "year": -2000
+      },
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
+      "notesMarkdown": "A rural Chalcolithic culture located in the Tapi Valley.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "8c49688a-fc5b-40ec-aaaa-737afcd607e6",
+      "name": "Prabhas Culture (Saurashtra Coast)",
+      "start": {
+        "year": -1800
+      },
+      "end": {
+        "year": -1200
+      },
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
+      "notesMarkdown": "A rural Chalcolithic culture.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "4908431b-e3c8-4e44-8880-06d602558cf1",
+      "name": "Malwa Culture (West Madhya Pradesh)",
+      "start": {
+        "year": -1700
+      },
+      "end": {
+        "year": -1400
+      },
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
+      "notesMarkdown": "A rural Chalcolithic culture.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "5482afac-0794-4880-9df1-3b1914b795e1",
+      "name": "Jorwe Culture (Maharashtra)",
+      "start": {
+        "year": -1400
+      },
+      "end": {
+        "year": -700
+      },
+      "groupId": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
+      "notesMarkdown": "A post-Harappan Chalcolithic culture found in Maharashtra.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-rigvedic",
+      "name": "Rigvedic (Early Vedic) Period",
+      "start": {
+        "year": -1500
+      },
+      "end": {
+        "year": -1000
+      },
+      "groupId": "c1f7a8b9-1234-4a12-8888-abcdef123456",
+      "notesMarkdown": "Key Event: Arrival of Aryans marking a Chalcolithic phase in Northern India. Pastoral tribe life.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "bac48cb4-4b5b-484e-87ac-dac860d41f08",
+      "name": "Iron Age",
+      "start": {
+        "year": -1000
+      },
+      "end": {
+        "year": -200
+      },
+      "groupId": "4acba818-f82c-4f79-b062-c31f2dd80696",
+      "notesMarkdown": "Began around 1000 BC. Parallel Incident: This covers the Later Vedic period (Painted Grey Ware) in North India and simultaneously the Megalithic period in South India.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-later-vedic",
+      "name": "Later Vedic Period (Painted Grey Ware)",
+      "start": {
+        "year": -1000
+      },
+      "end": {
+        "year": -600
+      },
+      "groupId": "c1f7a8b9-1234-4a12-8888-abcdef123456",
+      "notesMarkdown": "Key Factor: Introduction of iron in North India, shift to settled life.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-megalithic",
+      "name": "Megalithic Culture (South India)",
+      "start": {
+        "year": -1000
+      },
+      "end": {
+        "year": -300
+      },
+      "groupId": "c1f7a8b9-1234-4a12-8888-abcdef123456",
+      "notesMarkdown": "Parallel Incident: The use of iron and large stones in South India ran contemporaneously with the Later Vedic period in North India.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-mahajanapadas",
+      "name": "Post-Vedic / Mahajanapada Period",
+      "start": {
+        "year": -600
+      },
+      "end": {
+        "year": -300
+      },
+      "groupId": "c1f7a8b9-1234-4a12-8888-abcdef123456",
+      "notesMarkdown": "Period of political fragmentation. 16 prominent states (Mahajanapadas) formed, including monarchies like Magadha and republics like Malla.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-persian",
+      "name": "Persian Invasion",
+      "start": {
+        "year": -550
+      },
+      "end": {
+        "year": -500
+      },
+      "groupId": "e3f9c0d1-9012-4c56-0000-abcdef987654",
+      "notesMarkdown": "Parallel Incident: Occurred while India was fragmented into 16 Mahajanapadas.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-mauryan",
+      "name": "Mauryan Empire",
+      "start": {
+        "year": -321
+      },
+      "end": {
+        "year": -185
+      },
+      "groupId": "d2e8b9c0-5678-4b34-9999-abcdef654321",
+      "notesMarkdown": "First major political unification and highly centralized power in North India. Parallel Incident: Diplomatic relations established with Greek ambassador Megasthenes during Chandragupta's reign.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-deep-south",
+      "name": "Early South Indian Empires (Chera, Chola, Pandya)",
+      "start": {
+        "year": -300
+      },
+      "end": {
+        "year": 1300
+      },
+      "groupId": "d2e8b9c0-5678-4b34-9999-abcdef654321",
+      "notesMarkdown": "Key Factor: Maintained extraordinary continuity for approx 1600 years. Parallel Incident: Ran concurrent to the Mauryan, Post-Mauryan, Gupta, and Early Medieval empires of the North due to geographic isolation.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-post-mauryan",
+      "name": "Post-Mauryan Period (Political Fragmentation)",
+      "start": {
+        "year": -200
+      },
+      "end": {
+        "year": 300
+      },
+      "groupId": "c1f7a8b9-1234-4a12-8888-abcdef123456",
+      "notesMarkdown": "Empire fragmented into regional powers like Shungas, Kanvas, and Satavahanas. Khayber Pass left unprotected, inviting multiple central Asian invasions.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-indo-greeks",
+      "name": "Indo-Greeks & Central Asian Invasions",
+      "start": {
+        "year": -200
+      },
+      "end": {
+        "year": 400
+      },
+      "groupId": "e3f9c0d1-9012-4c56-0000-abcdef987654",
+      "notesMarkdown": "Sequential Invasions via Khyber pass: Indo-Greeks (2nd to 1st C BC), followed by Shakas (1st C BC to 4th C AD), Parthians, and Kushanas.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-gupta",
+      "name": "Gupta Period",
+      "start": {
+        "year": 300
+      },
+      "end": {
+        "year": 600
+      },
+      "groupId": "d2e8b9c0-5678-4b34-9999-abcdef654321",
+      "notesMarkdown": "Brought a new wave of political unification. Parallel Incident: Co-existed with regional kingdoms like Vakatakas in Central India and Pallavas/Kadambas in the South.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-pallava",
+      "name": "Pallava Dynasty",
+      "start": {
+        "year": 300
+      },
+      "end": {
+        "year": 880
+      },
+      "groupId": "d2e8b9c0-5678-4b34-9999-abcdef654321",
+      "notesMarkdown": "Key Factor: Temporarily replaced the Cholas in South India. They were contemporary with the Guptas, Harsha, and early Chalukyas.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-harsha",
+      "name": "Era of Harshavardhana & Chalukyas",
+      "start": {
+        "year": 625
+      },
+      "end": {
+        "year": 647
+      },
+      "groupId": "d2e8b9c0-5678-4b34-9999-abcdef654321",
+      "notesMarkdown": "Briefly unified North India post-Gupta decline. Parallel Incident: Fought extensively with his Southern contemporary, Pulakeshin of the Chalukyas.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-tripartite",
+      "name": "Tripartite Struggle (Rajput Era)",
+      "start": {
+        "year": 700
+      },
+      "end": {
+        "year": 900
+      },
+      "groupId": "d2e8b9c0-5678-4b34-9999-abcdef654321",
+      "notesMarkdown": "Intense triangular conflict over Kannauj involving Gurjara-Pratiharas, Rashtrakutas, and Palas.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-arab-sindh",
+      "name": "Arab Invasion of Sindh",
+      "start": {
+        "year": 700
+      },
+      "end": {
+        "year": 700
+      },
+      "groupId": "e3f9c0d1-9012-4c56-0000-abcdef987654",
+      "notesMarkdown": "Led by Muhammad bin Qasim. Parallel Incident: Faced heavy resistance from the contemporary Gurjara-Pratihara Rajputs, stopping their spread.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-ghazni",
+      "name": "Mahmud of Ghazni Invasions",
+      "start": {
+        "year": 1000
+      },
+      "end": {
+        "year": 1027
+      },
+      "groupId": "e3f9c0d1-9012-4c56-0000-abcdef987654",
+      "notesMarkdown": "Key Factor: Exploited the political fragmentation of the Late Rajput era. Avoided dominant powers like Chandellas and Paramaras to plunder weaker territories.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-delhi-sultanate",
+      "name": "Delhi Sultanate",
+      "start": {
+        "year": 1206
+      },
+      "end": {
+        "year": 1526
+      },
+      "groupId": "d2e8b9c0-5678-4b34-9999-abcdef654321",
+      "notesMarkdown": "Formed following Ghori's victory at Tarain. Parallel Incident: Their foreign policy constantly adapted to the massive Mongol threat (isolation under Iltutmish, defense under Balban, offense under Alauddin Khilji).",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-bahmani-vijayanagara",
+      "name": "Bahmani & Vijayanagara Empires",
+      "start": {
+        "year": 1350
+      },
+      "end": {
+        "year": 1565
+      },
+      "groupId": "d2e8b9c0-5678-4b34-9999-abcdef654321",
+      "notesMarkdown": "Emerged to fill the vacuum in South India after the Delhi Sultanate lost control. Vijayanagara collapsed at the Battle of Talikota in 1565.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    },
+    {
+      "id": "new-evt-portuguese",
+      "name": "Arrival of the Portuguese",
+      "start": {
+        "year": 1498
+      },
+      "end": {
+        "year": 1530
+      },
+      "groupId": "e3f9c0d1-9012-4c56-0000-abcdef987654",
+      "notesMarkdown": "Vasco da Gama arrived 1498. Parallel Incident: Captured Goa from Bijapur in 1510, and acquired Diu from Bahadur Shah of Gujarat in the 1530s, exactly contemporary with early Mughal Emperor Humayun.",
+      "resources": [],
+      "iconResourceId": null,
+      "color": null
+    }
+  ],
+  "groups": [
+    {
+      "id": "4acba818-f82c-4f79-b062-c31f2dd80696",
+      "name": "Time Periods",
+      "color": "#10B981"
+    },
+    {
+      "id": "25c6d081-8847-4b97-a724-602d2601ba86",
+      "name": "Harappan Phase",
+      "color": "#0EA5E9"
+    },
+    {
+      "id": "a8b25491-cdb8-4a15-a73b-813f19ec88c8",
+      "name": "Non Harappan Cultures",
+      "color": "#2563EB"
+    },
+    {
+      "id": "c1f7a8b9-1234-4a12-8888-abcdef123456",
+      "name": "Vedic & Mahajanapadas",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "d2e8b9c0-5678-4b34-9999-abcdef654321",
+      "name": "Empires & Dynasties",
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "e3f9c0d1-9012-4c56-0000-abcdef987654",
+      "name": "Invasions & Foreign Arrivals",
+      "color": "#EF4444"
+    }
+  ],
+  "schemaVersion": 1
+}
